@@ -181,10 +181,9 @@ Contributions are welcome! To contribute:
 ## Author
 
 Majji Tejeswani  
-Data Scientist  
 Email: tejeswanimajji1@gmail.com  
 GitHub: https://github.com/TejeswaniMajji  
 LinkedIn: https://www.linkedin.com/in/tejeswani-majji/  
 
-© 2025 Majji Tejeswani — All rights reserved.
+© 2026 Majji Tejeswani — All rights reserved.
 ```
