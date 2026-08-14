@@ -3,7 +3,7 @@
 
 A secure, role-aware medical recruitment assistant integrating Retrieval-Augmented Generation (RAG) and Agentic AI with modern AI and backend technologies. Built with FastAPI, MongoDB, Pinecone, LangChain, and LangGraph, this system automates the hiring process for healthcare roles, ensuring role-specific access for users like recruiters, hiring managers, and candidates.
 
-Developed and maintained by Pavan Kumar Eleti.
+Developed and maintained by Majji Tejeswani.
 
 ## Project Overview
 
@@ -180,11 +180,11 @@ Contributions are welcome! To contribute:
 
 ## Author
 
-Pavan Eleti  
+Majji Tejeswani  
 Data Scientist  
-Email: pavankumareleti@example.com  
-GitHub: https://github.com/pavankumareleti  
-LinkedIn: https://linkedin.com/in/pavankumareleti  
+Email: tejeswanimajji1@gmail.com  
+GitHub: https://github.com/TejeswaniMajji  
+LinkedIn: https://www.linkedin.com/in/tejeswani-majji/  
 
-© 2025 Pavan Kumar Eleti — All rights reserved.
+© 2025 Majji Tejeswani — All rights reserved.
 ```
